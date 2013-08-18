@@ -1,3 +1,12 @@
+Symfony Base Setup
+========================
+
+This is the standard setup for Symfony 2.3.3. Stripped down and ready to be customized for any Symfony project. Basically it's what you would get if you did http://symfony.com/doc/current/cookbook/workflow/new_project_git.html and http://symfony.com/doc/current/cookbook/bundles/remove.html.
+
+I made it because I'm too lazy to do this everytime I create a new Symfony project. If you want to use this repo to setup your project I would recommend not forking it because all the commits in your project won't show up in your contributions data.
+
+The following text is the standard README.md file that comes with Symfony.
+
 Symfony Standard Edition
 ========================
 
